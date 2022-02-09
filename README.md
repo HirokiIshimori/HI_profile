@@ -143,8 +143,8 @@ Java も Android アプリのネイティブ開発で使用していました。
 私の思い出に残っている仕事を紹介します。
 個人的にイチオシなのは妖精マークをつけています。
 
-## エンタメ系 SNS アプリ
-<img src="https://user-images.githubusercontent.com/36340609/153241207-f2a59ac1-4519-4af0-a974-ebc69f16c2b0.gif" />一番最新のプロジェクトです。
+## <img src="https://user-images.githubusercontent.com/36340609/153241207-f2a59ac1-4519-4af0-a974-ebc69f16c2b0.gif" />エンタメ系 SNS アプリ
+一番最新のプロジェクトです。
 エンタメ系の少しクローズドな SNS アプリ開発に携わりました。
 
 |開発環境|担当業務|アーキテクチャ|習得スキル|その他|
@@ -158,8 +158,8 @@ Java も Android アプリのネイティブ開発で使用していました。
 |--|--|--|--|--|
 |Swift5.3.2|iOS 側アプリ開発 <br/>リードエンジニア<br/> コードレビュー|MVVM/MVP（一部） <br/> DI : Swinject <br/> UI : Snapkit|リードエンジニアの経験|-|
 
-## テーマパークアプリ
-<img src="https://user-images.githubusercontent.com/36340609/153241269-e947b97f-a0d0-4087-973e-c267c0eb62b9.gif" />テーマパークのユーティリティアプリに携わりました。
+## <img src="https://user-images.githubusercontent.com/36340609/153241269-e947b97f-a0d0-4087-973e-c267c0eb62b9.gif" />テーマパークアプリ
+テーマパークのユーティリティアプリに携わりました。
 ちょっと有名なテーマパークなので楽しかったです。
 
 |開発環境|担当業務|アーキテクチャ|習得スキル|その他|
@@ -187,8 +187,8 @@ Java も Android アプリのネイティブ開発で使用していました。
 |--|--|--|--|--|
 |Swift4.1 <br/> PHP7.x|iOS アプリ開発 <br/> Web 開発| MVP |Web の開発スキル|-|
 
-## 子供向け学習向上アプリ
-<img src="https://user-images.githubusercontent.com/36340609/153241273-e7b27642-4f3d-4485-99f8-e2f63c0e7f73.gif" />ペンの筆圧とジャイロの値を Bluetooth でアプリに送信し、子供の学習率を計測するアプリを開発しました。
+## <img src="https://user-images.githubusercontent.com/36340609/153241273-e7b27642-4f3d-4485-99f8-e2f63c0e7f73.gif" />子供向け学習向上アプリ
+ペンの筆圧とジャイロの値を Bluetooth でアプリに送信し、子供の学習率を計測するアプリを開発しました。
 
 グラフ化なども行いました。
 
@@ -210,8 +210,8 @@ Beacon / Geofence / GPS と連携するアプリを開発しました。
 |--|--|--|--|--|
 |Swift2|iOS アプリ開発| MVVM |動画・サウンド関連 <br/> 大規模開発|オーディオプレーヤーの実装に苦労しました|
 
-## パチンコ内部ソフト(液晶演出)開発
-<img src="https://user-images.githubusercontent.com/36340609/153241275-038e7e3b-2d53-48cf-befe-34b494c7c269.gif" />C で開発したプロジェクトです。
+## <img src="https://user-images.githubusercontent.com/36340609/153241275-038e7e3b-2d53-48cf-befe-34b494c7c269.gif" />パチンコ内部ソフト(液晶演出)開発
+C で開発したプロジェクトです。
 パチンコ開発は大変でしたが、とても勉強になりました。
 
 |開発環境|担当業務|アーキテクチャ|習得スキル|その他|
