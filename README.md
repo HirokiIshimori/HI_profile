@@ -13,7 +13,7 @@
 </p>
 
 # 👨‍🍳 Job Request
-[Twitter](https://twitter.com/Asteroid_1) までお願いします！ <br />
+[Twitter](https://twitter.com/Asteroid_1) や [Wantedly](https://www.wantedly.com/id/hiroki_ishimori) までお願いします！ <br />
 DM も解放しています！ <br />
 カジュアル面談も可能ですが、優先度は下がる可能性があるのでご了承ください。 <br />
 また、**SES に近い案件はお断りしています**。 <br />
