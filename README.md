@@ -85,6 +85,19 @@ Zenn:[https://zenn.dev/asteroid/articles/07df478053f209613058](https://zenn.dev/
 
 4Gamer:[https://www.4gamer.net/games/540/G054072/20201127074/](https://www.4gamer.net/games/540/G054072/20201127074/)
 
+# 📘 OSS
+
+## LinkedTextSplitter
+Flutter 対象の OSS です。
+
+ハイパーリンクなどを含むテキストを「TextSpan」リストに変換します。
+
+Twitterのようなハイパーリンクや＠マーク、ハッシュタグにも対応しています。
+
+https://pub.dev/packages/linked_text_splitter
+
+<img width=250 src="https://user-images.githubusercontent.com/36340609/164604542-1cd1a230-46a5-49f9-b8c0-1cf5b95b5cd8.gif" />
+
 # 🎤 PR
 主に iOS / Android アプリの開発をしており、iOS のほうが経験は長いです。
 設計面では主に最近では MVVM + CleanArchitecthrer を採用することが多く、開発体制はアジャイルが多いです。
