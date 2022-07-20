@@ -25,7 +25,7 @@ DM も解放しています！ <br />
 
 |単価（月）|稼働時間（月）|働き方|
 |--|--|--|
-|85~100万＋消費税|180Hまで|基本的にフルリモート|
+|90万~＋消費税|170Hまで|基本的にフルリモート|
 
 **※単価は参考価格です。また契約更新などのタイミングで変動する可能性があります**
 
@@ -74,7 +74,6 @@ Android:[https://play.google.com/store/apps/details?id=jp.forestonegame.calculat
 
 ![ペコシュー_15S](https://user-images.githubusercontent.com/36340609/152875067-402d9413-ea62-4786-813e-bdef466a0613.gif)
 
-
 iOS:[https://apps.apple.com/jp/app/id1527790378](https://apps.apple.com/jp/app/id1527790378)
 
 Android:[https://play.google.com/store/apps/details?id=jp.forestonegame.PekopekoShooting](https://play.google.com/store/apps/details?id=jp.forestonegame.PekopekoShooting)
@@ -84,6 +83,15 @@ Android:[https://play.google.com/store/apps/details?id=jp.forestonegame.Pekopeko
 Zenn:[https://zenn.dev/asteroid/articles/07df478053f209613058](https://zenn.dev/asteroid/articles/07df478053f209613058)
 
 4Gamer:[https://www.4gamer.net/games/540/G054072/20201127074/](https://www.4gamer.net/games/540/G054072/20201127074/)
+
+## お天気アプリ
+WeatherKit を使った天気予報アプリ（Mac）を開発しました。
+SwiftUI / Combine で実装しました。
+※こちらはストア公開しておりません
+
+<img width="540" alt="weather" src="https://user-images.githubusercontent.com/36340609/179910825-e8d2e733-cbd3-4ca9-9d61-75b23b75f949.gif">
+
+Zenn : https://zenn.dev/asteroid/articles/32931e0aa63c3d
 
 # 📘 OSS
 
@@ -160,10 +168,11 @@ Java も Android アプリのネイティブ開発で使用していました。
 ## <img src="https://user-images.githubusercontent.com/36340609/153241207-f2a59ac1-4519-4af0-a974-ebc69f16c2b0.gif" />エンタメ系 SNS アプリ
 一番最新のプロジェクトです。
 エンタメ系の少しクローズドな SNS アプリ開発に携わりました。
+Zoom の組み込みや Flutter のバージョンアップ作業などもやりました。
 
 |開発環境|担当業務|アーキテクチャ|習得スキル|その他|
 |--|--|--|--|--|
-|Flutter 1.22.2 <br/> Dart 2.10.2|Flutter 側アプリ開発 <br/> コードレビュー|Bloc <br/> DI : Provider|Flutter の業務スキル|-|
+|Flutter 2.8.1 <br/> Dart 2.15.1|Flutter 側アプリ開発 <br/> コードレビュー|Bloc <br/> DI : Provider|Flutter の業務スキル|-|
 
 ## コスメアプリ
 コスメグッズレビューアプリに携わりました。
