@@ -53,6 +53,8 @@ iOS / Android どちらも経験があります。
 ## <img src="https://user-images.githubusercontent.com/36340609/153256843-e4628559-b9fc-4ac0-a5f6-e1e0e9d6f833.gif" /> 電卓騎士
 Flutter で開発した**対戦型**電卓アプリです。
 アプリとゲームの融合をテーマに開発しました。
+
+ユニットテストはできるだけ書くことを意識し、ゲームバランス調整もユニットテストを活用しています。
 Bluetooth 通信による対人戦も実装しました。
 
 |電卓機能|対戦機能|
@@ -74,6 +76,8 @@ Android:[https://play.google.com/store/apps/details?id=jp.forestonegame.calculat
 ## <img width=50 src="https://user-images.githubusercontent.com/36340609/153256861-258ec1e8-b19d-44e2-ab29-dfe53b428f19.gif" />ペコシュー
 こちらも同じく Flutter で開発したシューティングゲームです。
 初めて Flutter で作ったプロダクトになります。
+
+SpriteWidget を活用してゲームを作りました。
 
 ![ペコシュー_15S](https://user-images.githubusercontent.com/36340609/152875067-402d9413-ea62-4786-813e-bdef466a0613.gif)
 
