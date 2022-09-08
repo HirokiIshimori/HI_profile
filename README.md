@@ -67,6 +67,8 @@ Android:[https://play.google.com/store/apps/details?id=jp.forestonegame.calculat
 このアプリの開発ノウハウをまとめています。
 アプリと共に書籍も無料で配信しているので良かったら[こちら](https://techbookfest.org/product/6612111927017472?productVariantID=6558368430817280)からダウンロードしてください。
 
+<img width=350 src="https://user-images.githubusercontent.com/36340609/189055144-1852eefb-61c9-4969-ab51-793910eb3a52.jpg"/>
+
 書籍：[https://techbookfest.org/product/6612111927017472?productVariantID=6558368430817280](https://techbookfest.org/product/6612111927017472?productVariantID=6558368430817280)
 
 ## <img width=50 src="https://user-images.githubusercontent.com/36340609/153256861-258ec1e8-b19d-44e2-ab29-dfe53b428f19.gif" />ペコシュー
