@@ -53,6 +53,7 @@ iOS / Android どちらも経験があります。
 ## <img src="https://user-images.githubusercontent.com/36340609/153256843-e4628559-b9fc-4ac0-a5f6-e1e0e9d6f833.gif" /> 電卓騎士
 Flutter で開発した**対戦型**電卓アプリです。
 アプリとゲームの融合をテーマに開発しました。
+Bluetooth 通信による対人戦も実装しました。
 
 |電卓機能|対戦機能|
 |--|--|
