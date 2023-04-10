@@ -112,7 +112,7 @@ Java も Android アプリのネイティブ開発で使用していました。
 
 |開発環境|担当業務|アーキテクチャ|習得スキル|その他|
 |--|--|--|--|--|
-|Flutter 3.7.7 <br/> Dart 2.19.4|Flutter 側アプリ開発 <br/> バグフィックス|- <br/> DI : Riverpod|大規模アプリのソースコード解析など|-|
+|Flutter 3.7.7 <br/> Dart 2.19.4|Flutter 側アプリ開発 <br/> バグフィックス|- <br/> DI : Riverpod|大規模アプリのソースコード解析など　 <br /> Voice Over 実装|-|
 
 ## Bluetooth 通信を使用したウォーンキング アプリ
 独自の Bluetooth 機器とアプリ連動するウォーキングアプリ。
